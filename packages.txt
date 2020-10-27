@@ -1,0 +1,4 @@
+All the code was developed and executed in Python 3.8.5, with the following packages:
+
+numpy==1.19.1
+igraph==0.8.2
