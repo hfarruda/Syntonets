@@ -1,7 +1,7 @@
 # Syntonets: Toward A Harmony-Inspired General Model of Complex Networks
 Here, we make available the codes used to create the Syntonets. These networks are based on consonance and dissonance between notes. For that, we employ a method based on Helmholtz's consonance approach. 
 
-More information regarding the employed methodology is available on the [syntonet's](https://arxiv.org/abs/1910.11047) paper.
+More information regarding the employed methodology is available on the [syntonet's](https://epjb.epj.org/articles/epjb/abs/2020/12/b200357/b200357.html) paper.
 
 The codes are implemented in Python 3.8.5 in "syntonets.py." The primary function that creates the network is named "create_network" In order to visualize the created network, the function "visualize" can be employed. For both cases, the instructions of use are described in the code. We also provide an example of use ("test.ipynb").
 
