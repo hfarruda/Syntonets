@@ -15,7 +15,7 @@ All the codes were developed and executed with the environment described in "pac
 
 ## Citation Request
 If you use this code in a scientific work, please cite us as: 
-da F. Costa, Luciano, and F. de Arruda, Henrique. "Syntonets: Toward A Harmony-Inspired General Model of Complex Networks." arXiv preprint arXiv:1910.11047v2 (2019).
+da F. Costa, Luciano, and F. de Arruda, Henrique. "Syntonets: Toward A Harmony-Inspired General Model of Complex Networks." F. Costa, Luciano, and F. de Arruda, Henrique. "Syntonets: Toward A Harmony-Inspired General Model of Complex Networks." Eur. Phys. J. B, 93 12 (2020) 224.
 
 ## Acknowledgements
 Luciano da F. Costa thanks CNPq (grant no. 307085/2018-0) and NAP-PRP-USP for sponsorship. Henrique F. de Arruda acknowledges FAPESP for sponsorship (grant no. 2018/10489-0 and no. 2019/16223-5). This work has been supported also by FAPESP grants 2015/22308-2.
