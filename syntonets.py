@@ -1,5 +1,5 @@
 #Codes created by Henrique Ferraz de Arruda and Luciano da Fontoura Costa.
-#F. Costa, Luciano, and F. de Arruda, Henrique. "Syntonets: Toward A Harmony-Inspired General Model of Complex Networks." arXiv preprint arXiv:1910.11047v2 (2019).
+#F. Costa, Luciano, and F. de Arruda, Henrique. "Syntonets: Toward A Harmony-Inspired General Model of Complex Networks." Eur. Phys. J. B, 93 12 (2020) 224.
 import numpy as np 
 import igraph as ig
 import os 
