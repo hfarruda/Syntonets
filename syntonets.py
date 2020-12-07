@@ -31,7 +31,7 @@ def _helmholtz_test(x,y,f1,f_delta_min=2,f_delta_max=38):
         else:
             c_i.append(0.)
         
-        #Computing dossonance
+        #Computing dissonance
         if dissonance_pos.shape[0] != 0:
             dissonance_pos = dissonance_pos.T[0]
             aux = 0
